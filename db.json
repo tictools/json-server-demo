@@ -1,14 +1,25 @@
 {
-  "tasks": [
+  "books": [
     {
       "id": 1,
-      "title": "Estudiar json-server",
-      "completed": false
+      "title": "The Fellowship of the Ring",
+      "author": "J.R.R. Tolkien",
+      "year": 1954,
+      "status": "read"
     },
     {
       "id": 2,
-      "title": "Fer la pràctica de client",
-      "completed": true
+      "title": "The Two Towers",
+      "author": "J.R.R. Tolkien",
+      "year": 1954,
+      "status": "in progress"
+    },
+    {
+      "id": 3,
+      "title": "The Return of the King",
+      "author": "J.R.R. Tolkien",
+      "year": 1955,
+      "status": "pending"
     }
   ]
 }
